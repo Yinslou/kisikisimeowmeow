@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Пельмени традиционные",
+        "price": 199.0,
+        "calories": 280,
+        "proteins": 12.5,
+        "fats": 8.9,
+        "carbs": 32.0,
+        "category": "Полуфабрикаты",
+        "requires_cooking": true
+    },
+    {
+        "name": "Творог 9%",
+        "price": 89.0,
+        "calories": 156,
+        "proteins": 16.0,
+        "fats": 9.0,
+        "carbs": 3.0,
+        "category": "Молочные продукты",
+        "requires_cooking": false
+    },
+    {
+        "name": "Макароны спагетти",
+        "price": 109.0,
+        "calories": 350,
+        "proteins": 12.0,
+        "fats": 1.5,
+        "carbs": 70.0,
+        "category": "Бакалея",
+        "requires_cooking": true
+    },
+    {
+        "name": "Наггетсы куриные",
+        "price": 279.0,
+        "calories": 250,
+        "proteins": 14.0,
+        "fats": 12.0,
+        "carbs": 22.0,
+        "category": "Полуфабрикаты",
+        "requires_cooking": true
+    },
+    {
+        "name": "Сыр полутвёрдый",
+        "price": 199.0,
+        "calories": 350,
+        "proteins": 25.0,
+        "fats": 28.0,
+        "carbs": 0.0,
+        "category": "Молочные продукты",
+        "requires_cooking": false
+    },
+    {
+        "name": "Рис жасмин",
+        "price": 129.0,
+        "calories": 330,
+        "proteins": 7.0,
+        "fats": 1.0,
+        "carbs": 72.0,
+        "category": "Бакалея",
+        "requires_cooking": true
+    },
+    {
+        "name": "Куриное филе",
+        "price": 299.0,
+        "calories": 110,
+        "proteins": 23.0,
+        "fats": 1.2,
+        "carbs": 0.0,
+        "category": "Мясо",
+        "requires_cooking": true
+    },
+    {
+        "name": "Яйца куриные",
+        "price": 129.0,
+        "calories": 157,
+        "proteins": 12.7,
+        "fats": 10.9,
+        "carbs": 0.7,
+        "category": "Яйца",
+        "requires_cooking": true
+    },
+    {
+        "name": "Молоко 2.5%",
+        "price": 79.0,
+        "calories": 52,
+        "proteins": 3.0,
+        "fats": 2.5,
+        "carbs": 4.7,
+        "category": "Молочные продукты",
+        "requires_cooking": false
+    },
+    {
+        "name": "Макаронный сыр",
+        "price": 159.0,
+        "calories": 320,
+        "proteins": 12.0,
+        "fats": 18.0,
+        "carbs": 25.0,
+        "category": "Полуфабрикаты",
+        "requires_cooking": true
+    }
+]
