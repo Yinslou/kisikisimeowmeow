@@ -18,7 +18,7 @@ class Form(StatesGroup):
 # Command handlers
 @dp.message(Command("start"))
 async def start_command(message: types.Message, state: FSMContext):
-    await message.answer("Welcome to the Samokat Nutrition Bot! 🍏")
+    await message.answer("Дарова че хавать будем")
     await message.answer("What is your goal?", reply_markup=types.ReplyKeyboardMarkup(
         keyboard=[
             [types.KeyboardButton(text="Mass Gain")],
